@@ -42,3 +42,20 @@ cd en-GB/DEBS
 sudo dpkg -i *.deb
 cd desktop-integration
 sudo dpkg -i *.deb
+
+# open vpn
+sudo apt-get -y install openvpn easy-rsa
+		
+# ssh server
+sudo apt-get install openssh-server -y
+sudo apt-get install openssh-client -y
+		
+#python
+sudo apt-get install -y python3.6
+		
+# Vim
+sudo apt-get -y install vim
+
+#Atom
+sudo apt-get -y install atom
+		
