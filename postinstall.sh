@@ -2,4 +2,4 @@
 
 # install vlc
 #sudo apt-get -y install vlc
-sudo cp /root/cp.tar /home/famoco/
+sudo mkdir /home/famoco/loic
